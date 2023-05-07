@@ -12,3 +12,4 @@ console.log(item1Tag.offsetWidth);
 console.log(item2Tag.offsetWidth);
 console.log(item3Tag.offsetWidth);
 
+
